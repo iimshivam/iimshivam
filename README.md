@@ -52,9 +52,7 @@
 
 ---
 
-### 📊 My Projects
-
-Here’s a preview of my interactive Power BI dashboards. Click on the images to explore the live versions:
+### 📊 Dashboards
 
 <div align="center">
   <a href="https://app.powerbi.com/reportEmbed?reportId=e0d6637d-0e26-4dbf-b64d-a480b1663c00&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
@@ -72,6 +70,28 @@ Here’s a preview of my interactive Power BI dashboards. Click on the images to
   </a>
   <p><b>Player Behavior Analysis Dashboard:</b> Insights into in-game purchase and gameplay behavior.</p>
 </div>
+
+---
+
+### 📈 Data Analysis Projects
+
+- **Gaming Analysis (Kaggle)**: [Link to Project](https://www.kaggle.com/code/emerginganalyst/gaming-analysis)
+
+  This project explores the complexities of player behavior in a gaming environment, using data analysis and machine learning to derive actionable insights. Key elements of the analysis include:
+
+  - **Exploratory Data Analysis**: Detailed examination of variables like money spent, number of ticks (game sessions), win/loss frequency, and payouts. This included visualizations such as histograms, box plots, and correlation heatmaps to uncover patterns and relationships.
+
+  - **Player Segmentation with Clustering**: Using K-Means clustering, players were segmented into groups based on their activity and spending habits. This segmentation provides insights into different gamer types, such as "High Spenders" or "Frequent Players."
+
+  - **Feature Engineering**: Created features like win-loss ratio and money per tick to enrich the dataset, improving the predictive power of models used in the analysis.
+
+  - **Predictive Modeling**: Implemented linear regression and random forest models to predict spending (money) based on other metrics like ticks, wins, and payouts. This included model evaluation using Mean Squared Error (MSE) and cross-validation techniques to ensure robust predictions.
+
+  - **Model Optimization**: Conducted hyperparameter tuning with Grid Search for the Random Forest model, refining it to improve accuracy in predicting player spending behavior.
+
+  - **Key Findings**: The analysis helped to identify correlations between engagement metrics (like ticks and win/loss ratio) and spending, which can inform targeted strategies to enhance player retention and monetization.
+
+  This project was implemented using Python libraries such as `pandas`, `matplotlib`, `seaborn`, and `scikit-learn` for data manipulation, visualization, clustering, and predictive modeling.
 
 ---
 
