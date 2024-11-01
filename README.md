@@ -24,12 +24,6 @@
    - [Microsoft Power BI Certification](https://learn.microsoft.com/en-gb/users/shivamvishwakarma-3541/credentials/8c7b75d0063ff182?ref=https%3A%2F%2Fwww.linkedin.com%2F)
    - [IBM Data Analytics Essentials Certification](https://www.credly.com/badges/52fbef69-3ddb-4f4c-a0da-f1120e4aa065/linked_in_profile)
 
-📈 **Recent Work**:
-  - **Player Behavior Analysis Dashboard**: Insightful analysis of in-game purchase behavior and gameplay mindset. Explore the live dashboard [here](https://app.powerbi.com/reportEmbed?reportId=9bbae5b5-c591-465f-8792-e0033116f197&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007).
-  <a href="https://app.powerbi.com/reportEmbed?reportId=9bbae5b5-c591-465f-8792-e0033116f197&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
-      <img src="https://github.com/user-attachments/assets/aec965ba-1b8d-4c8c-9a93-f4b4d3d08c4f" alt="Player Behavior Analysis" width="500"/>
-  </a>
-
 💞️ **Looking to Collaborate on** data-driven projects, freelance opportunities, and business intelligence solutions that transform data into actionable strategies.
 
 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/shivamwish) | **Email**: svuk0203@gmail.com | [Book a Meeting](https://calendly.com/shivamvishwakarma98/30min)
@@ -58,20 +52,25 @@
 
 ---
 
-### 📊 Public Dashboards
+### 📊 My Projects
 
 Here’s a preview of my interactive Power BI dashboards. Click on the images to explore the live versions:
 
 <div align="center">
+  <a href="https://app.powerbi.com/reportEmbed?reportId=e0d6637d-0e26-4dbf-b64d-a480b1663c00&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
+    <img src="https://github.com/user-attachments/assets/26ad6dd3-6c6e-4e1d-a590-5249a885dc1f" alt="Assessment Dashboard" width="500"/>
+  </a>
+  <p><b>Assessment Dashboard:</b> Analytical insights into student performance and outcomes.</p>
+  <br>
   <a href="https://app.powerbi.com/reportEmbed?reportId=2bba0365-b5ec-47cd-bcbf-c60b9738f073&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
     <img src="https://github.com/user-attachments/assets/436f01e8-ad1c-4f12-8d35-d931d66d96c9" alt="Sales Performance Dashboard" width="500"/>
   </a>
   <p><b>Sales Performance Dashboard:</b> A comprehensive view of sales metrics and trends.</p>
   <br>
-  <a href="https://app.powerbi.com/reportEmbed?reportId=e0d6637d-0e26-4dbf-b64d-a480b1663c00&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
-    <img src="https://github.com/user-attachments/assets/26ad6dd3-6c6e-4e1d-a590-5249a885dc1f" alt="Student Assessment Dashboard" width="500"/>
+  <a href="https://app.powerbi.com/reportEmbed?reportId=9bbae5b5-c591-465f-8792-e0033116f197&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
+    <img src="https://github.com/user-attachments/assets/aec965ba-1b8d-4c8c-9a93-f4b4d3d08c4f" alt="Player Behavior Analysis Dashboard" width="500"/>
   </a>
-  <p><b>Student Assessment Dashboard:</b> Analytical insights into student performance and outcomes.</p>
+  <p><b>Player Behavior Analysis Dashboard:</b> Insights into in-game purchase and gameplay behavior.</p>
 </div>
 
 ---
