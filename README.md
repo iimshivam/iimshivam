@@ -8,8 +8,6 @@
     <b>Turning data into actionable insights to drive business growth and strategic impact</b>
 </p>
 
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -26,9 +24,15 @@
    - [Microsoft Power BI Certification](https://learn.microsoft.com/en-gb/users/shivamvishwakarma-3541/credentials/8c7b75d0063ff182?ref=https%3A%2F%2Fwww.linkedin.com%2F)
    - [IBM Data Analytics Essentials Certification](https://www.credly.com/badges/52fbef69-3ddb-4f4c-a0da-f1120e4aa065/linked_in_profile)
 
+📈 **Recent Work**:
+  - **Player Behavior Analysis Dashboard**: Insightful analysis of in-game purchase behavior and gameplay mindset. Explore the live dashboard [here](https://app.powerbi.com/reportEmbed?reportId=9bbae5b5-c591-465f-8792-e0033116f197&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007).
+  <a href="https://app.powerbi.com/reportEmbed?reportId=9bbae5b5-c591-465f-8792-e0033116f197&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
+      <img src="https://github.com/user-attachments/assets/aec965ba-1b8d-4c8c-9a93-f4b4d3d08c4f" alt="Player Behavior Analysis" width="500"/>
+  </a>
+
 💞️ **Looking to Collaborate on** data-driven projects, freelance opportunities, and business intelligence solutions that transform data into actionable strategies.
 
-📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/shivamwish) | **Email**: svuk0203@gmail.com
+📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/shivamwish) | **Email**: svuk0203@gmail.com | [Book a Meeting](https://calendly.com/shivamvishwakarma98/30min)
 
 ---
 
@@ -70,10 +74,6 @@ Here’s a preview of my interactive Power BI dashboards. Click on the images to
   <p><b>Student Assessment Dashboard:</b> Analytical insights into student performance and outcomes.</p>
 </div>
 
-<p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF0czg0Z2J6enkxbjgzOWNjanY2eXozdm94MGJobXIwMnJnNndsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZVOjzbW8cPDm9PQzP/giphy.webp" alt="Data Animation" width="150"/>
-</p>
-
 ---
 
 ### 🤝 Let's Connect
@@ -84,4 +84,4 @@ I'm always open to discussing data-driven projects, freelance opportunities, or 
 
 <p align="center">
 ✨ <i>"Turning complex data into powerful insights that fuel informed business decisions."</i> ✨
-</p> 
+</p>
