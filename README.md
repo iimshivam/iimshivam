@@ -1,200 +1,284 @@
+<!-- ========================================================= -->
+<!--                    SHIVAM VISHWAKARMA                     -->
+<!-- ========================================================= -->
+
 <div align="center">
 
 # 👋 Hi, I'm Shivam Vishwakarma
 
-### 💼 Senior Business Intelligence Analyst @ Principal
+### Senior Business Intelligence Analyst @ Principal
 
 **Business Intelligence • Data Analytics • Power BI • SQL • Alteryx • Snowflake**
 
-*Turning complex data into actionable insights, scalable BI solutions, and smarter business decisions.*
-
-<br/>
+<br>
 
 <a href="https://www.linkedin.com/in/shivamwish">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.kaggle.com/emerginganalyst">
-<img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:svuk0203@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://calendly.com/shivamvishwakarma98/30min">
-<img src="https://img.shields.io/badge/Book%20a%20Meeting-FF6B6B?style=for-the-badge&logo=calendly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Calendly-Book%20a%20Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=2E8B57&center=true&vCenter=true&width=750&lines=Senior+Business+Intelligence+Analyst;Transforming+Data+Into+Business+Insights;Building+Scalable+BI+Solutions;Power+BI+%7C+SQL+%7C+Alteryx+%7C+Snowflake;Analytics+That+Drives+Better+Decisions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Turning+Data+into+Business+Insights;Building+Interactive+Power+BI+Dashboards;SQL+%7C+Alteryx+%7C+Snowflake+%7C+Python;Business+Intelligence+%7C+Data+Analytics;Always+Learning+%26+Building"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 👨‍💻 About Me
 
-I'm a **Senior Business Intelligence Analyst at Principal**, passionate about transforming complex data into meaningful insights that support better business decisions.
+I'm a **Senior Business Intelligence Analyst at Principal**, focused on transforming complex data into meaningful business insights.
 
-My work sits at the intersection of **data, technology, visualization, and business strategy**.
+I work across **Business Intelligence, Data Analytics, Data Visualization, ETL, SQL and modern data platforms**, with a strong focus on building solutions that help businesses make better data-driven decisions.
 
-### 🔍 What I Do
+### What I Do
 
-- 📊 Business Intelligence & Data Visualization
-- 📈 Power BI & Interactive Dashboard Development
-- 🗄️ SQL & Database Analytics
-- ⚙️ Alteryx & ETL / Data Preparation
-- ❄️ Snowflake & Modern Data Platforms
-- 🐍 Python & Advanced Analytics
-- 📐 KPI & Performance Analytics
-- 🤖 AI & Emerging Analytics Technologies
+- 📊 Build interactive **Power BI dashboards**
+- 🧠 Translate business requirements into analytical solutions
+- 🛠️ Develop data transformation workflows using **Alteryx**
+- 🗄️ Work with **SQL, Snowflake and relational databases**
+- 📈 Analyze trends, KPIs and business performance
+- 🧹 Clean, transform and prepare data for analytics
+- 🐍 Use **Python & Pandas** for analytical workflows
+- 🔍 Explore data to identify patterns and actionable insights
+- ⚙️ Build repeatable and scalable BI solutions
 
 ---
 
 # 💼 Professional Experience
 
-### 🏢 Senior Business Intelligence Analyst
+### 🏢 Senior Business Intelligence Analyst — Principal
 
-**Principal**
+**Business Intelligence • Data Analytics • Reporting • Data Visualization**
 
-Focused on transforming data into actionable business insights and developing scalable analytics solutions.
-
-**Core Areas**
-
-`Business Intelligence` `Data Analytics` `Power BI` `SQL` `Alteryx` `Snowflake` `ETL` `Data Visualization` `KPI Analytics`
+Working with data and BI technologies to develop analytical solutions, automate data workflows and deliver insights that support business decision-making.
 
 ---
 
-# 🛠️ Technical Arsenal
+# 🧰 Technical Arsenal
 
-### 📊 Business Intelligence
+### 📊 Business Intelligence & Visualization
 
-<p>
+<p align="left">
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
 </p>
 
 ### 🗄️ Databases & Data Platforms
 
-<p>
+<p align="left">
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
 </p>
 
-### ⚙️ Data Preparation & ETL
+### ⚙️ Data Engineering & Analytics
 
-<p>
+<p align="left">
+
 <img src="https://img.shields.io/badge/Alteryx-0F2B4C?style=for-the-badge&logo=alteryx&logoColor=white"/>
-<img src="https://img.shields.io/badge/ETL-007ACC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Transformation-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Transformation-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/A%2FB%20Testing-8E44AD?style=for-the-badge"/>
+
 </p>
 
-### 🐍 Programming & Data Science
+### 🐍 Programming & Machine Learning
 
-<p>
+<p align="left">
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+
 </p>
 
 ---
 
 # 🏆 Certifications & Credentials
 
-<div align="center">
+<p align="center">
+  <em>Continuously learning and upskilling to stay ahead in data, analytics and business intelligence.</em>
+</p>
+
+<br>
 
 <table>
 <tr>
+
+<!-- ========================================================= -->
+<!-- MICROSOFT POWER BI -->
+<!-- ========================================================= -->
 
 <td align="center" width="25%">
 
 <a href="https://learn.microsoft.com/en-gb/users/shivamvishwakarma-3541/credentials/8c7b75d0063ff182">
 
-<img src="https://img.shields.io/badge/Microsoft-F2F2F2?style=for-the-badge&logo=microsoft&logoColor=5E5E5E"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="90" alt="Microsoft Power BI"/>
 
-<br/><br/>
+</a>
 
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<br><br>
 
-<br/><br/>
+<h3>Microsoft Power BI</h3>
 
-<b>Microsoft Power BI</b>
+<sub><b>Microsoft</b></sub>
 
-<br/>
+<br><br>
 
-<sub>Business Intelligence & Visualization</sub>
+<img src="https://img.shields.io/badge/POWER-BI-F2C811?style=for-the-badge&labelColor=20232A" />
+
+<br><br>
+
+<sub>
+Business Intelligence<br>
+Data Visualization
+</sub>
+
+<br><br>
+
+<a href="https://learn.microsoft.com/en-gb/users/shivamvishwakarma-3541/credentials/8c7b75d0063ff182">
+
+<img src="https://img.shields.io/badge/✓%20VIEW-CREDENTIAL-F2C811?style=for-the-badge&labelColor=20232A"/>
 
 </a>
 
 </td>
+
+<!-- ========================================================= -->
+<!-- IBM -->
+<!-- ========================================================= -->
 
 <td align="center" width="25%">
 
 <a href="https://www.credly.com/badges/52fbef69-3ddb-4f4c-a0da-f1120e4aa065/linked_in_profile">
 
-<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/ibm/4589FF" width="90" alt="IBM Data Analytics"/>
 
-<br/><br/>
+</a>
 
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+<br><br>
 
-<br/><br/>
+<h3>IBM Data Analytics</h3>
 
-<b>IBM Data Analytics</b>
+<sub><b>IBM</b></sub>
 
-<br/>
+<br><br>
 
-<sub>Data Analysis & Analytics</sub>
+<img src="https://img.shields.io/badge/DATA-ANALYTICS-1261FE?style=for-the-badge&labelColor=20232A"/>
+
+<br><br>
+
+<sub>
+Data Analysis<br>
+SQL & Visualization
+</sub>
+
+<br><br>
+
+<a href="https://www.credly.com/badges/52fbef69-3ddb-4f4c-a0da-f1120e4aa065/linked_in_profile">
+
+<img src="https://img.shields.io/badge/✓%20VIEW-CREDENTIAL-1261FE?style=for-the-badge&labelColor=20232A"/>
 
 </a>
 
 </td>
+
+<!-- ========================================================= -->
+<!-- ALTERYX -->
+<!-- ========================================================= -->
 
 <td align="center" width="25%">
 
 <a href="https://www.credly.com/badges/42c4da81-51d3-4612-976f-d42d5b640a0c/linked_in_profile">
 
-<img src="https://img.shields.io/badge/Alteryx-0F2B4C?style=for-the-badge&logo=alteryx&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/alteryx/00B3A4" width="90" alt="Alteryx Designer Advanced"/>
 
-<br/><br/>
+</a>
 
-<img src="https://img.shields.io/badge/DESIGNER-ADVANCED-0F2B4C?style=for-the-badge&logo=alteryx&logoColor=white"/>
+<br><br>
 
-<br/><br/>
+<h3>Alteryx Designer Advanced</h3>
 
-<b>Alteryx Designer Advanced</b>
+<sub><b>Alteryx</b></sub>
 
-<br/>
+<br><br>
 
-<sub>Advanced Data Preparation & ETL</sub>
+<img src="https://img.shields.io/badge/DESIGNER-ADVANCED-00B3A4?style=for-the-badge&labelColor=20232A"/>
+
+<br><br>
+
+<sub>
+Advanced Data Preparation<br>
+Automation & ETL
+</sub>
+
+<br><br>
+
+<a href="https://www.credly.com/badges/42c4da81-51d3-4612-976f-d42d5b640a0c/linked_in_profile">
+
+<img src="https://img.shields.io/badge/✓%20VIEW-CREDENTIAL-00B3A4?style=for-the-badge&labelColor=20232A"/>
 
 </a>
 
 </td>
 
+<!-- ========================================================= -->
+<!-- SNOWFLAKE -->
+<!-- ========================================================= -->
+
 <td align="center" width="25%">
 
-<a href="https://achieve.snowflake.com/91e4fa97-f380-4fab-9449-eae0b8283a48">
+<a href="https://achieve.snowflake.com/91e4fa97-f380-4fab-9449-eae0b8283a48#acc.MwolXR0B">
 
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="90" alt="Snowflake"/>
 
-<br/><br/>
+</a>
 
-<img src="https://img.shields.io/badge/CERTIFIED-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<br><br>
 
-<br/><br/>
+<h3>Snowflake Certification</h3>
 
-<b>Snowflake Certification</b>
+<sub><b>Snowflake</b></sub>
 
-<br/>
+<br><br>
 
-<sub>Cloud Data Platform</sub>
+<img src="https://img.shields.io/badge/CERTIFIED-DATA%20PLATFORM-29B5E8?style=for-the-badge&labelColor=20232A"/>
+
+<br><br>
+
+<sub>
+Cloud Data Platform<br>
+Modern Data Warehousing
+</sub>
+
+<br><br>
+
+<a href="https://achieve.snowflake.com/91e4fa97-f380-4fab-9449-eae0b8283a48#acc.MwolXR0B">
+
+<img src="https://img.shields.io/badge/✓%20VIEW-CREDENTIAL-29B5E8?style=for-the-badge&labelColor=20232A"/>
 
 </a>
 
@@ -203,254 +287,261 @@ Focused on transforming data into actionable business insights and developing sc
 </tr>
 </table>
 
-<br/>
+<br>
+
+<p align="center">
 
 <a href="https://learn.microsoft.com/en-gb/users/shivamvishwakarma-3541/credentials/8c7b75d0063ff182">
-<img src="https://img.shields.io/badge/✓%20VERIFY%20MICROSOFT%20POWER%20BI-F2C811?style=for-the-badge&logo=microsoft&logoColor=black"/>
+<img src="https://img.shields.io/badge/✓%20VERIFY-MICROSOFT%20POWER%20BI-F2C811?style=for-the-badge&labelColor=20232A"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.credly.com/badges/52fbef69-3ddb-4f4c-a0da-f1120e4aa065/linked_in_profile">
-<img src="https://img.shields.io/badge/✓%20VERIFY%20IBM%20DATA%20ANALYTICS-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/✓%20VERIFY-IBM%20DATA%20ANALYTICS-1261FE?style=for-the-badge&labelColor=20232A"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.credly.com/badges/42c4da81-51d3-4612-976f-d42d5b640a0c/linked_in_profile">
-<img src="https://img.shields.io/badge/✓%20VERIFY%20ALTERYX%20ADVANCED-0F2B4C?style=for-the-badge&logo=alteryx&logoColor=white"/>
+<img src="https://img.shields.io/badge/✓%20VERIFY-ALTERYX%20ADVANCED-00B3A4?style=for-the-badge&labelColor=20232A"/>
 </a>
 
-<a href="https://achieve.snowflake.com/91e4fa97-f380-4fab-9449-eae0b8283a48">
-<img src="https://img.shields.io/badge/✓%20VERIFY%20SNOWFLAKE-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+&nbsp;
+
+<a href="https://achieve.snowflake.com/91e4fa97-f380-4fab-9449-eae0b8283a48#acc.MwolXR0B">
+<img src="https://img.shields.io/badge/✓%20VERIFY-SNOWFLAKE-29B5E8?style=for-the-badge&labelColor=20232A"/>
 </a>
 
-</div>
+</p>
+
+<br>
+
+<p align="center">
+<b>Certified</b>
+&nbsp; • &nbsp;
+<b>Skilled</b>
+&nbsp; • &nbsp;
+<b>Ready for What's Next</b>
+</p>
 
 ---
 
 # 📊 Featured Power BI Dashboards
 
-<div align="center">
-
 ## 🎨 Interactive Business Intelligence
 
-</div>
+### 1️⃣ Assessment Dashboard
 
-<table align="center">
+<a href="https://app.powerbi.com/reportEmbed?reportId=e0d6637d-0e26-4dbf-b64d-a480b1663c00&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
+
+<img src="https://github.com/user-attachments/assets/26ad6dd3-6c6e-4e1d-a590-5249a885dc1f" width="100%"/>
+
+</a>
+
+**Power BI • KPI Analysis • Interactive Reporting • Business Intelligence**
+
+---
+
+### 2️⃣ Sales Performance Dashboard
+
+<a href="https://app.powerbi.com/reportEmbed?reportId=2bba0365-b5ec-47cd-bcbf-c60b9738f073&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
+
+<img src="https://github.com/user-attachments/assets/436f01e8-ad1c-4f12-8d35-d931d66d96c9" width="100%"/>
+
+</a>
+
+**Power BI • Sales Analytics • Performance Tracking • KPI Dashboard**
+
+---
+
+### 3️⃣ Player Behavior Analysis
+
+<a href="https://app.powerbi.com/reportEmbed?reportId=9bbae5b5-c591-465f-8792-e0033116f197&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
+
+<img src="https://github.com/user-attachments/assets/aec965ba-1b8d-4c8c-9a93-f4b4d3d08c4f" width="100%"/>
+
+</a>
+
+**Power BI • Behavioral Analytics • Player Segmentation • Data Visualization**
+
+---
+
+# 📚 Kaggle Projects
+
+## 🎮 Gaming Analysis
+
+<a href="https://www.kaggle.com/code/emerginganalyst/gaming-analysis">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+</a>
+
+**Focus:** Gaming trends, player behavior, data exploration and visualization.
+
+---
+
+## ✈️ British Airways Operations Analysis
+
+<a href="https://www.kaggle.com/code/emerginganalyst/british-airways-analysis">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+</a>
+
+**Focus:** Airline operations, performance analysis and business insights.
+
+---
+
+## ✈️ British Airways Customer Reviews Analysis
+
+<a href="https://www.kaggle.com/code/emerginganalyst/british-airways-customer-reviews-analysis">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+</a>
+
+**Focus:** Customer sentiment, review analysis and service experience.
+
+---
+
+## 🧠 Indian Mental Wellness Market Analysis
+
+<a href="https://www.kaggle.com/code/emerginganalyst/indian-mental-wellness-market-analysis">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+</a>
+
+**Focus:** Market analysis, consumer behavior and data-driven insights.
+
+---
+
+# 📈 Impact & Analytics
+
+<table>
 <tr>
+<td align="center">
 
-<td width="33%" align="center">
+### 📊 6+
 
-### 📚 Assessment Analytics
-
-<a href="https://app.powerbi.com/reportEmbed?reportId=e0d6637d-0e26-4dbf-b64d-a480b1663c00&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
-
-<img src="https://github.com/user-attachments/assets/26ad6dd3-6c6e-4e1d-a590-5249a885dc1f" width="280"/>
-
-</a>
-
-**Student performance & outcome analytics**
-
-<br/>
-
-<a href="https://app.powerbi.com/reportEmbed?reportId=e0d6637d-0e26-4dbf-b64d-a480b1663c00&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
-<img src="https://img.shields.io/badge/VIEW%20DASHBOARD-2E8B57?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</a>
+**Dashboards**
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
 
-### 💰 Sales Performance
+### 🏥 100K+
 
-<a href="https://app.powerbi.com/reportEmbed?reportId=2bba0365-b5ec-47cd-bcbf-c60b9738f073&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
-
-<img src="https://github.com/user-attachments/assets/436f01e8-ad1c-4f12-8d35-d931d66d96c9" width="280"/>
-
-</a>
-
-**Sales KPIs, trends & performance analysis**
-
-<br/>
-
-<a href="https://app.powerbi.com/reportEmbed?reportId=2bba0365-b5ec-47cd-bcbf-c60b9738f073&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
-<img src="https://img.shields.io/badge/VIEW%20DASHBOARD-2E8B57?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</a>
+**Medical Records Analyzed**
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
 
-### 🎮 Player Behavior
+### 🚀 4+
 
-<a href="https://app.powerbi.com/reportEmbed?reportId=9bbae5b5-c591-465f-8792-e0033116f197&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
-
-<img src="https://github.com/user-attachments/assets/aec965ba-1b8d-4c8c-9a93-f4b4d3d08c4f" width="280"/>
-
-</a>
-
-**Gameplay, purchases & player insights**
-
-<br/>
-
-<a href="https://app.powerbi.com/reportEmbed?reportId=9bbae5b5-c591-465f-8792-e0033116f197&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
-<img src="https://img.shields.io/badge/VIEW%20DASHBOARD-2E8B57?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</a>
+**Analytics Projects**
 
 </td>
 
+<td align="center">
+
+### 🏆 4
+
+**Professional Certifications**
+
+</td>
 </tr>
 </table>
 
 ---
 
-# 🔬 Data Analytics Projects
+# 🧠 Analytics Philosophy
 
-## 🎮 Gaming Analytics
+> **"Data is only valuable when it helps someone make a better decision."**
 
-**Player Segmentation • Clustering • Predictive Analytics • Monetization**
+My approach to analytics is built around three principles:
 
-Analyzed player behavior to identify customer segments, engagement patterns, and monetization opportunities.
+### 01 — Understand
 
-[![Explore on Kaggle](https://img.shields.io/badge/EXPLORE%20PROJECT-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/emerginganalyst/gaming-analysis)
+Understand the business problem before touching the data.
 
----
+### 02 — Analyze
 
-## ✈️ British Airways Operations
+Transform raw data into meaningful patterns, trends and insights.
 
-**Time Series • Operational Analytics • Performance Optimization**
+### 03 — Communicate
 
-Explored operational patterns and performance indicators to identify opportunities for improved efficiency.
-
-[![Explore on Kaggle](https://img.shields.io/badge/EXPLORE%20PROJECT-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/emerginganalyst/british-airways-analysis)
+Present insights through intuitive dashboards and clear storytelling.
 
 ---
 
-## 💬 British Airways Customer Reviews
+# 🔭 Currently Exploring
 
-**NLP • Sentiment Analysis • Customer Experience**
+<p align="center">
 
-Used text analytics and sentiment analysis to uncover customer satisfaction drivers and customer experience patterns.
+<img src="https://img.shields.io/badge/Advanced%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Alteryx-0F2B4C?style=for-the-badge&logo=alteryx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Analytics%20Automation-6C63FF?style=for-the-badge"/>
 
-[![Explore on Kaggle](https://img.shields.io/badge/EXPLORE%20PROJECT-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/emerginganalyst/british-airways-customer-reviews-analysis)
-
----
-
-## 🧠 Indian Mental Wellness Market
-
-**Market Research • Demographic Analysis • Business Insights**
-
-Analyzed market trends and demographic patterns to identify potential growth opportunities.
-
-[![Explore on Kaggle](https://img.shields.io/badge/EXPLORE%20PROJECT-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/emerginganalyst/indian-mental-wellness-market-analysis)
-
----
-
-# 📈 Impact
-
-<div align="center">
-
-| 📊 | Achievement |
-|---|---|
-| **6+** | Power BI Dashboards |
-| **100K+** | Medical Records Analyzed |
-| **4+** | Analytics Projects |
-| **4** | Professional Certifications |
-| **∞** | Curiosity for Data |
-
-</div>
-
----
-
-# 🧩 Analytics Philosophy
-
-<div align="center">
-
-## DATA → DISCOVER → DECIDE → DELIVER
-
-</div>
-
-I believe analytics is more than producing numbers.
-
-It's about asking the right questions, finding patterns hidden inside the data, and communicating those findings in a way that people can actually use.
-
-> **"Good analytics explains what happened. Great analytics helps you understand why."**
-
----
-
-# 🚀 Currently Exploring
-
-<div align="center">
-
-`🤖 AI-Powered Analytics`
-
-`📊 Advanced Power BI & DAX`
-
-`❄️ Snowflake & Modern Data Platforms`
-
-`⚙️ Alteryx & Advanced Data Preparation`
-
-`🐍 Python for Advanced Analytics`
-
-`🧠 Machine Learning & Predictive Analytics`
-
-</div>
+</p>
 
 ---
 
 # 🤝 Let's Connect
 
-<div align="center">
-
-## Have data? Let's turn it into a story. 📊
-
-<br/>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/shivamwish">
-<img src="https://img.shields.io/badge/LinkedIn-Shivam%20Vishwakarma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Shivam%20Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="mailto:svuk0203@gmail.com">
 <img src="https://img.shields.io/badge/Email-svuk0203%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/emerginganalyst">
-<img src="https://img.shields.io/badge/Kaggle-emerginganalyst-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+<br><br>
 
 <a href="https://calendly.com/shivamvishwakarma98/30min">
-<img src="https://img.shields.io/badge/Book%20a%20Meeting-FF6B6B?style=for-the-badge&logo=calendly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Book%20a%20Meeting-Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white"/>
 </a>
 
-<br/><br/>
+</p>
 
-### 💼 Open to
+---
 
-`Business Intelligence` • `Data Analytics` • `Power BI` • `SQL` • `Alteryx` • `Snowflake` • `Analytics Consulting`
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iimshivam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iimshivam&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iimshivam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iimshivam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57"/>
+### 🚀 Turning Data Into Decisions
 
-<br/><br/>
+**Business Intelligence • Analytics • Visualization • Data Engineering**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iimshivam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E8B57"/>
+<br>
 
-</div>
-
----
-
-<div align="center">
-
-## 🌱 Learn. Analyze. Visualize. Impact.
-
-**Building with data. Growing with every dataset. 🚀**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
