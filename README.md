@@ -136,7 +136,11 @@ Working with data and BI technologies to develop analytical solutions, automate 
 
 <a href="https://learn.microsoft.com/en-gb/users/shivamvishwakarma-3541/credentials/8c7b75d0063ff182">
 
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="90" alt="Microsoft Power BI"/>
+<img
+src="https://img.shields.io/badge/Microsoft-POWER%20BI-F2C811?style=for-the-badge&labelColor=20232A&logo=microsoft&logoColor=white"
+height="90"
+alt="Microsoft Power BI"
+/>
 
 </a>
 
@@ -148,7 +152,10 @@ Working with data and BI technologies to develop analytical solutions, automate 
 
 <br><br>
 
-<img src="https://img.shields.io/badge/POWER-BI-F2C811?style=for-the-badge&labelColor=20232A" />
+<img
+src="https://img.shields.io/badge/POWER-BI-F2C811?style=for-the-badge&labelColor=20232A"
+alt="Power BI"
+/>
 
 <br><br>
 
@@ -161,21 +168,28 @@ Data Visualization
 
 <a href="https://learn.microsoft.com/en-gb/users/shivamvishwakarma-3541/credentials/8c7b75d0063ff182">
 
-<img src="https://img.shields.io/badge/✓%20VIEW-CREDENTIAL-F2C811?style=for-the-badge&labelColor=20232A"/>
+<img
+src="https://img.shields.io/badge/↗%20VIEW-CREDENTIAL-F2C811?style=for-the-badge&labelColor=20232A"
+alt="View Microsoft Power BI Credential"
+/>
 
 </a>
 
 </td>
 
 <!-- ========================================================= -->
-<!-- IBM -->
+<!-- IBM DATA ANALYTICS -->
 <!-- ========================================================= -->
 
 <td align="center" width="25%">
 
 <a href="https://www.credly.com/badges/52fbef69-3ddb-4f4c-a0da-f1120e4aa065/linked_in_profile">
 
-<img src="https://cdn.simpleicons.org/ibm/4589FF" width="90" alt="IBM Data Analytics"/>
+<img
+src="https://images.credly.com/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png"
+width="145"
+alt="IBM Data Analyst Professional Certificate"
+/>
 
 </a>
 
@@ -187,7 +201,10 @@ Data Visualization
 
 <br><br>
 
-<img src="https://img.shields.io/badge/DATA-ANALYTICS-1261FE?style=for-the-badge&labelColor=20232A"/>
+<img
+src="https://img.shields.io/badge/DATA-ANALYTICS-1261FE?style=for-the-badge&labelColor=20232A"
+alt="IBM Data Analytics"
+/>
 
 <br><br>
 
@@ -200,21 +217,28 @@ SQL & Visualization
 
 <a href="https://www.credly.com/badges/52fbef69-3ddb-4f4c-a0da-f1120e4aa065/linked_in_profile">
 
-<img src="https://img.shields.io/badge/✓%20VIEW-CREDENTIAL-1261FE?style=for-the-badge&labelColor=20232A"/>
+<img
+src="https://img.shields.io/badge/↗%20VIEW-CREDENTIAL-1261FE?style=for-the-badge&labelColor=20232A"
+alt="View IBM Credential"
+/>
 
 </a>
 
 </td>
 
 <!-- ========================================================= -->
-<!-- ALTERYX -->
+<!-- ALTERYX DESIGNER ADVANCED -->
 <!-- ========================================================= -->
 
 <td align="center" width="25%">
 
 <a href="https://www.credly.com/badges/42c4da81-51d3-4612-976f-d42d5b640a0c/linked_in_profile">
 
-<img src="https://cdn.simpleicons.org/alteryx/00B3A4" width="90" alt="Alteryx Designer Advanced"/>
+<img
+src="https://images.credly.com/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png"
+width="145"
+alt="Alteryx Designer Advanced Certification"
+/>
 
 </a>
 
@@ -226,7 +250,10 @@ SQL & Visualization
 
 <br><br>
 
-<img src="https://img.shields.io/badge/DESIGNER-ADVANCED-00B3A4?style=for-the-badge&labelColor=20232A"/>
+<img
+src="https://img.shields.io/badge/DESIGNER-ADVANCED-00B3A4?style=for-the-badge&labelColor=20232A"
+alt="Alteryx Designer Advanced"
+/>
 
 <br><br>
 
@@ -239,7 +266,10 @@ Automation & ETL
 
 <a href="https://www.credly.com/badges/42c4da81-51d3-4612-976f-d42d5b640a0c/linked_in_profile">
 
-<img src="https://img.shields.io/badge/✓%20VIEW-CREDENTIAL-00B3A4?style=for-the-badge&labelColor=20232A"/>
+<img
+src="https://img.shields.io/badge/↗%20VIEW-CREDENTIAL-00B3A4?style=for-the-badge&labelColor=20232A"
+alt="View Alteryx Credential"
+/>
 
 </a>
 
@@ -253,7 +283,11 @@ Automation & ETL
 
 <a href="https://achieve.snowflake.com/91e4fa97-f380-4fab-9449-eae0b8283a48#acc.MwolXR0B">
 
-<img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="90" alt="Snowflake"/>
+<img
+src="https://img.shields.io/badge/SNOWFLAKE-CERTIFIED-29B5E8?style=for-the-badge&labelColor=20232A&logo=snowflake&logoColor=white"
+height="90"
+alt="Snowflake Certification"
+/>
 
 </a>
 
@@ -265,7 +299,10 @@ Automation & ETL
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CERTIFIED-DATA%20PLATFORM-29B5E8?style=for-the-badge&labelColor=20232A"/>
+<img
+src="https://img.shields.io/badge/CERTIFIED-DATA%20PLATFORM-29B5E8?style=for-the-badge&labelColor=20232A"
+alt="Snowflake Certification"
+/>
 
 <br><br>
 
@@ -278,7 +315,10 @@ Modern Data Warehousing
 
 <a href="https://achieve.snowflake.com/91e4fa97-f380-4fab-9449-eae0b8283a48#acc.MwolXR0B">
 
-<img src="https://img.shields.io/badge/✓%20VIEW-CREDENTIAL-29B5E8?style=for-the-badge&labelColor=20232A"/>
+<img
+src="https://img.shields.io/badge/↗%20VIEW-CREDENTIAL-29B5E8?style=for-the-badge&labelColor=20232A"
+alt="View Snowflake Credential"
+/>
 
 </a>
 
@@ -335,7 +375,11 @@ Modern Data Warehousing
 
 <a href="https://app.powerbi.com/reportEmbed?reportId=e0d6637d-0e26-4dbf-b64d-a480b1663c00&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
 
-<img src="https://github.com/user-attachments/assets/26ad6dd3-6c6e-4e1d-a590-5249a885dc1f" width="100%"/>
+<img
+src="https://github.com/user-attachments/assets/26ad6dd3-6c6e-4e1d-a590-5249a885dc1f"
+width="100%"
+alt="Assessment Dashboard"
+/>
 
 </a>
 
@@ -347,7 +391,11 @@ Modern Data Warehousing
 
 <a href="https://app.powerbi.com/reportEmbed?reportId=2bba0365-b5ec-47cd-bcbf-c60b9738f073&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
 
-<img src="https://github.com/user-attachments/assets/436f01e8-ad1c-4f12-8d35-d931d66d96c9" width="100%"/>
+<img
+src="https://github.com/user-attachments/assets/436f01e8-ad1c-4f12-8d35-d931d66d96c9"
+width="100%"
+alt="Sales Performance Dashboard"
+/>
 
 </a>
 
@@ -359,7 +407,11 @@ Modern Data Warehousing
 
 <a href="https://app.powerbi.com/reportEmbed?reportId=9bbae5b5-c591-465f-8792-e0033116f197&autoAuth=true&ctid=b8173501-d9a3-441c-85ce-c4885a9cd007">
 
-<img src="https://github.com/user-attachments/assets/aec965ba-1b8d-4c8c-9a93-f4b4d3d08c4f" width="100%"/>
+<img
+src="https://github.com/user-attachments/assets/aec965ba-1b8d-4c8c-9a93-f4b4d3d08c4f"
+width="100%"
+alt="Player Behavior Analysis Dashboard"
+/>
 
 </a>
 
@@ -373,7 +425,10 @@ Modern Data Warehousing
 
 <a href="https://www.kaggle.com/code/emerginganalyst/gaming-analysis">
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
+alt="Gaming Analysis"
+/>
 
 </a>
 
@@ -385,7 +440,10 @@ Modern Data Warehousing
 
 <a href="https://www.kaggle.com/code/emerginganalyst/british-airways-analysis">
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
+alt="British Airways Analysis"
+/>
 
 </a>
 
@@ -397,7 +455,10 @@ Modern Data Warehousing
 
 <a href="https://www.kaggle.com/code/emerginganalyst/british-airways-customer-reviews-analysis">
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
+alt="British Airways Customer Reviews Analysis"
+/>
 
 </a>
 
@@ -409,7 +470,10 @@ Modern Data Warehousing
 
 <a href="https://www.kaggle.com/code/emerginganalyst/indian-mental-wellness-market-analysis">
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
+alt="Indian Mental Wellness Market Analysis"
+/>
 
 </a>
 
@@ -421,6 +485,7 @@ Modern Data Warehousing
 
 <table>
 <tr>
+
 <td align="center">
 
 ### 📊 6+
@@ -452,6 +517,7 @@ Modern Data Warehousing
 **Professional Certifications**
 
 </td>
+
 </tr>
 </table>
 
@@ -520,15 +586,21 @@ Present insights through intuitive dashboards and clear storytelling.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iimshivam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=iimshivam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iimshivam&theme=tokyonight&hide_border=true"/>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=iimshivam&theme=tokyonight&hide_border=true"
+/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iimshivam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=iimshivam&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
@@ -542,6 +614,9 @@ Present insights through intuitive dashboards and clear storytelling.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+alt="Footer"
+/>
 
 </div>
