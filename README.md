@@ -33,8 +33,6 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Data Analytics" width="300" src="https://media.giphy.com/media/f9k4Uo5yWxMN7iLhVd/giphy.gif"/>
-
 I'm a **Senior Business Intelligence Analyst at Principal**, passionate about transforming complex data into meaningful insights that support better business decisions.
 
 My work sits at the intersection of **data, technology, visualization, and business strategy**.
@@ -50,17 +48,15 @@ My work sits at the intersection of **data, technology, visualization, and busin
 - 📐 KPI & Performance Analytics
 - 🤖 AI & Emerging Analytics Technologies
 
-<br clear="right"/>
-
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
 ### 🏢 Senior Business Intelligence Analyst
 
 **Principal**
 
-My focus is on transforming data into actionable business insights and developing scalable analytics solutions.
+Focused on transforming data into actionable business insights and developing scalable analytics solutions.
 
 **Core Areas**
 
@@ -68,7 +64,7 @@ My focus is on transforming data into actionable business insights and developin
 
 ---
 
-## 🛠️ Technical Arsenal
+# 🛠️ Technical Arsenal
 
 ### 📊 Business Intelligence
 
@@ -107,27 +103,123 @@ My focus is on transforming data into actionable business insights and developin
 <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-### 🧠 Advanced Analytics
-
-<p>
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/A%2FB%20Testing-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistical%20Analysis-8E44AD?style=for-the-badge"/>
-</p>
-
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications & Credentials
 
 <div align="center">
 
-| Certification | Issuer | Credential |
-|---|---|---|
-| 🟡 **Microsoft Power BI** | Microsoft | [View Credential](https://learn.microsoft.com/en-gb/users/shivamvishwakarma-3541/credentials/8c7b75d0063ff182) |
-| 🔵 **IBM Data Analytics** | IBM | [View Credential](https://www.credly.com/badges/52fbef69-3ddb-4f4c-a0da-f1120e4aa065/linked_in_profile) |
-| 🟢 **Alteryx Designer Advanced Certification** | Alteryx | [View Credential](https://www.credly.com/badges/42c4da81-51d3-4612-976f-d42d5b640a0c/linked_in_profile) |
-| ❄️ **Snowflake Certification** | Snowflake | [View Credential](https://achieve.snowflake.com/91e4fa97-f380-4fab-9449-eae0b8283a48) |
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<a href="https://learn.microsoft.com/en-gb/users/shivamvishwakarma-3541/credentials/8c7b75d0063ff182">
+
+<img src="https://img.shields.io/badge/Microsoft-F2F2F2?style=for-the-badge&logo=microsoft&logoColor=5E5E5E"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<br/><br/>
+
+<b>Microsoft Power BI</b>
+
+<br/>
+
+<sub>Business Intelligence & Visualization</sub>
+
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://www.credly.com/badges/52fbef69-3ddb-4f4c-a0da-f1120e4aa065/linked_in_profile">
+
+<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<br/><br/>
+
+<b>IBM Data Analytics</b>
+
+<br/>
+
+<sub>Data Analysis & Analytics</sub>
+
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://www.credly.com/badges/42c4da81-51d3-4612-976f-d42d5b640a0c/linked_in_profile">
+
+<img src="https://img.shields.io/badge/Alteryx-0F2B4C?style=for-the-badge&logo=alteryx&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DESIGNER-ADVANCED-0F2B4C?style=for-the-badge&logo=alteryx&logoColor=white"/>
+
+<br/><br/>
+
+<b>Alteryx Designer Advanced</b>
+
+<br/>
+
+<sub>Advanced Data Preparation & ETL</sub>
+
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://achieve.snowflake.com/91e4fa97-f380-4fab-9449-eae0b8283a48">
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CERTIFIED-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
+<br/><br/>
+
+<b>Snowflake Certification</b>
+
+<br/>
+
+<sub>Cloud Data Platform</sub>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<a href="https://learn.microsoft.com/en-gb/users/shivamvishwakarma-3541/credentials/8c7b75d0063ff182">
+<img src="https://img.shields.io/badge/✓%20VERIFY%20MICROSOFT%20POWER%20BI-F2C811?style=for-the-badge&logo=microsoft&logoColor=black"/>
+</a>
+
+<a href="https://www.credly.com/badges/52fbef69-3ddb-4f4c-a0da-f1120e4aa065/linked_in_profile">
+<img src="https://img.shields.io/badge/✓%20VERIFY%20IBM%20DATA%20ANALYTICS-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/badges/42c4da81-51d3-4612-976f-d42d5b640a0c/linked_in_profile">
+<img src="https://img.shields.io/badge/✓%20VERIFY%20ALTERYX%20ADVANCED-0F2B4C?style=for-the-badge&logo=alteryx&logoColor=white"/>
+</a>
+
+<a href="https://achieve.snowflake.com/91e4fa97-f380-4fab-9449-eae0b8283a48">
+<img src="https://img.shields.io/badge/✓%20VERIFY%20SNOWFLAKE-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+</a>
 
 </div>
 
@@ -137,7 +229,7 @@ My focus is on transforming data into actionable business insights and developin
 
 <div align="center">
 
-### 🎨 Interactive Business Intelligence
+## 🎨 Interactive Business Intelligence
 
 </div>
 
@@ -341,11 +433,11 @@ It's about asking the right questions, finding patterns hidden inside the data, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iimshivam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57" />
+<img src="https://github-readme-stats.vercel.app/api?username=iimshivam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iimshivam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E8B57" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iimshivam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E8B57"/>
 
 </div>
 
